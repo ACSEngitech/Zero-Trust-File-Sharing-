@@ -1,6 +1,6 @@
 # 🔐 Zero Trust Encrypted File Sharing System
 
-**Final Semester Project** | Full Stack Web Application  
+**Project** | Full Stack Web Application  
 **Tech Stack:** Python + FastAPI + PostgreSQL + React + Tailwind CSS
 
 ---
